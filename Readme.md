@@ -1,0 +1,1 @@
+Teste do primeiro contato com o Git
