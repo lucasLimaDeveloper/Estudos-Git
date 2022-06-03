@@ -31,9 +31,4 @@ Estudo de Git
 
  //pull request (no github): caso você de um fork em algum repositório e fizer alterações relevantes para o dono do repositório, você pode sugerir essas alterações para o dono do repositório
 
-<<<<<<< HEAD
  //Teste de merge
-
-=======
- // Teste de merge
->>>>>>> 904cf805ecc3d1400cfaf4846015993a43b053bc
