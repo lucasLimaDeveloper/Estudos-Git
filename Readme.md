@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Estudo de Git
 
  //Readme.md tem o objetivo de ser um comentário sobre os arquivos que estão sendo postados
@@ -29,3 +30,8 @@ Estudo de Git
  //fork (no github): faz com que você copie o repositório de alguém para a sua lista de repositórios
 
  //pull request (no github): caso você de um fork em algum repositório e fizer alterações relevantes para o dono do repositório, você pode sugerir essas alterações para o dono do repositório
+
+ // Teste de merge
+=======
+Branch criada unicamente para testes
+>>>>>>> 32d1b4466b2de56c9c306ec7fb64b35799de8132
