@@ -32,6 +32,3 @@ Estudo de Git
  //pull request (no github): caso você de um fork em algum repositório e fizer alterações relevantes para o dono do repositório, você pode sugerir essas alterações para o dono do repositório
 
  // Teste de merge
-=======
-Branch criada unicamente para testes
->>>>>>> 32d1b4466b2de56c9c306ec7fb64b35799de8132
